@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lamnouab\\Documents\\workspace\\Behavioral-Design-Patterns\\CommandPattern\\AdapterPattern\\AdapterPattern\\ObjectAdapter.csproj",
+      "projectUniqueName": "C:\\Users\\Lamnouab\\Documents\\workspace\\design-patterns\\structural-patterns\\AdapterPattern\\AdapterPattern\\ObjectAdapter.csproj",
       "projectName": "ObjectAdapter",
-      "projectPath": "C:\\Users\\Lamnouab\\Documents\\workspace\\Behavioral-Design-Patterns\\CommandPattern\\AdapterPattern\\AdapterPattern\\ObjectAdapter.csproj",
+      "projectPath": "C:\\Users\\Lamnouab\\Documents\\workspace\\design-patterns\\structural-patterns\\AdapterPattern\\AdapterPattern\\ObjectAdapter.csproj",
       "packagesPath": "C:\\Users\\Lamnouab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lamnouab\\Documents\\workspace\\Behavioral-Design-Patterns\\CommandPattern\\AdapterPattern\\AdapterPattern\\obj\\",
+      "outputPath": "C:\\Users\\Lamnouab\\Documents\\workspace\\design-patterns\\structural-patterns\\AdapterPattern\\AdapterPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

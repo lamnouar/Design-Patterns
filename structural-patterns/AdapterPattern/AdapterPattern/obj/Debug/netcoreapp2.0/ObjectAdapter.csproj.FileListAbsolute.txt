@@ -1,0 +1,11 @@
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\ObjectAdapter.deps.json
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\ObjectAdapter.runtimeconfig.json
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\ObjectAdapter.runtimeconfig.dev.json
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\ObjectAdapter.dll
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\ObjectAdapter.pdb
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\ObjectAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\ObjectAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\ObjectAdapter.AssemblyInfoInputs.cache
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\ObjectAdapter.AssemblyInfo.cs
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\ObjectAdapter.dll
+C:\Users\Lamnouab\Documents\workspace\design-patterns\structural-patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\ObjectAdapter.pdb
