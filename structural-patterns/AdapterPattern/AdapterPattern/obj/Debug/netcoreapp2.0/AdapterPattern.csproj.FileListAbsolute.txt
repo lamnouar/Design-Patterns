@@ -1,0 +1,11 @@
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.deps.json
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.runtimeconfig.json
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.runtimeconfig.dev.json
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.dll
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.0\AdapterPattern.pdb
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.dll
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.0\AdapterPattern.pdb

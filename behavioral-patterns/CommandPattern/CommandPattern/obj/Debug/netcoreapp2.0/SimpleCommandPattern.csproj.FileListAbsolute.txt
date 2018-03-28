@@ -1,0 +1,11 @@
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.0\SimpleCommandPattern.deps.json
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.0\SimpleCommandPattern.runtimeconfig.json
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.0\SimpleCommandPattern.runtimeconfig.dev.json
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.0\SimpleCommandPattern.dll
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.0\SimpleCommandPattern.pdb
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.0\SimpleCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.0\SimpleCommandPattern.AssemblyInfoInputs.cache
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.0\SimpleCommandPattern.AssemblyInfo.cs
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.0\SimpleCommandPattern.dll
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.0\SimpleCommandPattern.pdb
+C:\Users\Lamnouab\Documents\workspace\Behavioral-Design-Patterns\CommandPattern\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.0\SimpleCommandPattern.csprojResolveAssemblyReference.cache

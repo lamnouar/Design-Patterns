@@ -1,0 +1,10 @@
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Lamnouab\Documents\workspace\creational-patterns\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb
